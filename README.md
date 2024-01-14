@@ -49,8 +49,8 @@
   <p align="center">Networking</p>
   <img src="./public/assets/sonarqube.jpeg" alt="Logo" width="100%" height="100%">
   <p align="center">Sonarqube</p>
-  img src="./public/assets/target.jpeg" alt="Logo" width="100%" height="100%">
-  <p align="center">CI CD</p>
+  <img src="./public/assets/target.jpeg" alt="Logo" width="100%" height="100%">
+  <p align="center">CICD</p>
 </div>
 
 ## Prerequests
