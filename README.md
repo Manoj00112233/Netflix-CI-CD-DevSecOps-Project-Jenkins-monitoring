@@ -43,6 +43,14 @@
   <p align="center">Grid Genre Page</p>
   <img src="./public/assets/watch.png" alt="Logo" width="100%" height="100%">
   <p align="center">Watch Page with customer contol bar</p>
+  <img src="./public/assets/network.jpeg" alt="Logo" width="100%" height="100%">
+  <p align="center">Network</p>
+  <img src="./public/assets/network1.jpeg" alt="Logo" width="100%" height="100%">
+  <p align="center">Networking</p>
+  <img src="./public/assets/sonarqube.jpeg" alt="Logo" width="100%" height="100%">
+  <p align="center">Sonarqube</p>
+  img src="./public/assets/target.jpeg" alt="Logo" width="100%" height="100%">
+  <p align="center">CI CD</p>
 </div>
 
 ## Prerequests
